@@ -1,5 +1,5 @@
 # RandomWords
-a semplificated RandomWords plugin
+a simple RandomWords plugin
 
 ```yaml
 ---
