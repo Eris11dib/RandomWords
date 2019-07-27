@@ -1,6 +1,6 @@
 ---
 name: RandomWords
 main: RandomWords\Main
-author: ShowMyBareisho
+authors: [ShowMyBareisho, luca28pet]
 version: 3.0.0
 api: 3.0.0
