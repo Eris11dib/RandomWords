@@ -22,3 +22,5 @@ max_players: 1
 2) words: means all the minigames's words that the players have to type faster than others
 3) rewards: this section is dedicated to rewards, if you wanna gave some items, insert the id:meta:count, also you can addMoney to players just by insert the ammount (EconomyAPI needed)
 4) max_players: how many players you want to start the minigame
+
+Idea by: ItsGabry
