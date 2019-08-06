@@ -46,7 +46,7 @@ class Main extends PluginBase implements Listener{
                 $rand1 = $rand[array_rand($rand)];
                 if(is_int($rand1)){
                     $this->economy->addMoney($player,$rand1);
-                    $player->sendMessage($this->prefix . "Hai ricevuto: " . $rand1);
+                    $player->sendMessage($this->prefix . " Hai ricevuto: " . $rand1);
                 }else{
                         $expl = explode(":", $rand1);
                         $player->getInventory()->addItem(Item::get((int) $expl[0], (int) $expl[1], (int) $expl[2]));
